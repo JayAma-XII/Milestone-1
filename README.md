@@ -12,7 +12,7 @@ Welcome to the official website for **The Graveyard Sirens**, London’s undead 
 - **CSS3** – (styling)
 
 ## External sources used
-- https://fonts.google.com/ (Used for all used font)
+- https://fonts.google.com/ (Source for all used fonts)
 - https://getbootstrap.com/docs/5.3/components/navbar/#nav (Source for the navigation bar)
 
 
