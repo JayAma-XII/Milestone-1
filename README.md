@@ -11,11 +11,17 @@ Welcome to the official website for **The Graveyard Sirens**, London’s undead 
 - **HTML5** – (structure)
 - **CSS3** – (styling)
 
+## External sources used
+- https://fonts.google.com/ (Used for all used font)
+- https://getbootstrap.com/docs/5.3/components/navbar/#nav (Source for the navigation bar)
+
+
 ## Features
 
 - Band Bio + Lore section
 - Gig calendar (upcoming + past shows)
-- Dark mode only 
+- Dark mode only
+- Easy to update tour dates 
 
 ---
 
