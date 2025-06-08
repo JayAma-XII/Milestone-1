@@ -42,3 +42,32 @@ README.md            # This file
 
 - CSS validation: https://jigsaw.w3.org/css-validator/validator$link
 - HTML Validation: 
+
+## Testing
+
+### Action
+Clicking on Menu elements to switch pages
+
+#### Expected result
+pages switch
+
+#### Actual Result
+As expected
+
+### Action
+Clicking on the image carousel to cycle through images on the main page
+
+#### Expected result
+Images change
+
+#### Actual Result
+Images change
+
+### Action
+Clicking on CSS validation image
+
+#### Expected result
+Opens link to CSS validation
+
+#### Actual Result
+Opens link to CSS validation
