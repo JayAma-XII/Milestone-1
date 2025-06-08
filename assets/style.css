@@ -12,7 +12,12 @@ p {
 }
 
 h1 {
-    text-align: p;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
 }
 
 .container {

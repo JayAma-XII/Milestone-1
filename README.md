@@ -2,7 +2,7 @@
 
 # 🦇 The Graveyard Sirens – Official Website
 
-Welcome to the official website for **The Graveyard Sirens**, London’s undead queens of Gothic Rock, Darkwave, Punk, and Occult Pop. This is a simple HTML/CSS/JS site built to showcase the band, their music, upcoming gigs, and general dark fabulousness.
+Welcome to the official website for **The Graveyard Sirens**, London’s undead queens of Gothic Rock, Darkwave, Punk, and Occult Pop. This is a simple HTML/CSS site built to showcase the band, their music, and upcoming gigs.
 
 ---
 
@@ -11,9 +11,10 @@ Welcome to the official website for **The Graveyard Sirens**, London’s undead 
 - **HTML5** – (structure)
 - **CSS3** – (styling)
 
-## External sources used
+## External Resources used
 - https://fonts.google.com/ (Source for all used fonts)
-- https://getbootstrap.com/docs/5.3/components/navbar/#nav (Source for the navigation bar)
+- https://getbootstrap.com/docs/5.3/components/navbar/#nav (For the navigation bar on every page)
+- https://getbootstrap.com/docs/5.3/components/carousel/ (For the image carousel on index.html)
 
 
 ## Features
@@ -36,3 +37,8 @@ assets/
 └──  css/
     └── styles.css   # Styling
 README.md            # This file
+
+##
+
+- CSS validation: https://jigsaw.w3.org/css-validator/validator$link
+- HTML Validation: 
