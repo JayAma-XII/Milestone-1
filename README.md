@@ -50,7 +50,7 @@ TEST.md              # Site  testing
 
 ## Wireframe
 
-![Wireframe for the homepage](<wireframe1.png>)
-![Wireframe for the about page](<wireframe2.png>)
-![Wireframe for the contact page](<wireframe3.png>)
-![Wireframe for the gig page](<wireframe4.png>)
+![Wireframe for the homepage](<assets\images\readme_images\wireframe1.png>)
+![Wireframe for the about page](<assets\images\readme_images\wireframe2.png>)
+![Wireframe for the contact page](<assets\images\readme_images\wireframe3.png>)
+![Wireframe for the gig page](<assets\images\readme_images\wireframe4.png>)
