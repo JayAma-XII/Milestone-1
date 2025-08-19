@@ -4,6 +4,10 @@
 
 Welcome to the official website for **The Graveyard Sirens**, London’s undead queens of Gothic Rock, Darkwave, Punk, and Occult Pop. This is a simple HTML/CSS site built to showcase the band, their music, and upcoming gigs.
 
+The site gives fans information on tour dates, the bands official social media and explains a little more about the band.
+The site allows the band to update their fans with their current and future tour dates and locations, it also enables them to direct their fans to their official social media accounts.
+
+The colour scheme consistst of white text on black backgrounds to match the aesthetic of of the band and to make sure the text remains readable, the links on the contact page are set to change to gold when hovered over to make clear which link is being selected and to maintain optimal contrast and readability.
 ---
 
 ## Tech Stack
@@ -15,6 +19,7 @@ Welcome to the official website for **The Graveyard Sirens**, London’s undead 
 - https://fonts.google.com/ (Source for all used fonts)
 - https://getbootstrap.com/docs/5.3/components/navbar/#nav (For the navigation bar on every page)
 - https://getbootstrap.com/docs/5.3/components/carousel/ (For the image carousel on index.html)
+- Bootstrap has been used for the image carousel and all of the navigation bars.
 
 
 ## Features
@@ -37,37 +42,12 @@ assets/
 └──  css/
     └── styles.css   # Styling
 README.md            # This file
-
+TEST.md              # Site  testing
 ##
 
 - CSS validation: https://jigsaw.w3.org/css-validator/validator$link
 - HTML Validation: 
 
-## Testing
+## Wireframe
 
-### Action
-Clicking on Menu elements to switch pages
-
-#### Expected result
-pages switch
-
-#### Actual Result
-As expected
-
-### Action
-Clicking on the image carousel to cycle through images on the main page
-
-#### Expected result
-Images change
-
-#### Actual Result
-Images change
-
-### Action
-Clicking on CSS validation image
-
-#### Expected result
-Opens link to CSS validation
-
-#### Actual Result
-Opens link to CSS validation
+![Wireframe for the homepage](<Screenshot 2025-08-19 223002.png>)

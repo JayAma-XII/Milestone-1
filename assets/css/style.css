@@ -1,3 +1,4 @@
+/** Main styling for the site **/
 body {
   font-family: lugrasimo-regular;
   margin: 0 auto;
@@ -10,6 +11,8 @@ body {
 p {
     font-size: x-large;
 }
+
+/** Text alignment and display formating **/
 
 h1 {
     text-align: center;
@@ -30,10 +33,14 @@ header {
   padding: 15px;
 }
 
+/** Image styling **/
+
 img {
   max-width: 100%;
   height: auto;
 }
+
+/** The fonts used for the main texts and headers respectively **/
 
 .lugrasimo-regular {
   font-family: "Lugrasimo", cursive;
@@ -46,3 +53,13 @@ img {
   font-weight: 400;
   font-style: normal;
 }
+
+/** Makes links white for easier readability and makes them turn gold when hovered over to make clear which link is selected **/
+a {
+  color: white;
+}
+
+a:hover {
+  color: gold;
+}
+
