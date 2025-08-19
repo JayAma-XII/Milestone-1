@@ -50,4 +50,7 @@ TEST.md              # Site  testing
 
 ## Wireframe
 
-![Wireframe for the homepage](<Screenshot 2025-08-19 223002.png>)
+![Wireframe for the homepage](<wireframe1.png>)
+![Wireframe for the about page](<wireframe2.png>)
+![Wireframe for the contact page](<wireframe3.png>)
+![Wireframe for the gig page](<wireframe4.png>)
