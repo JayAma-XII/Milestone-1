@@ -8,6 +8,12 @@ The site gives fans information on tour dates, the bands official social media a
 The site allows the band to update their fans with their current and future tour dates and locations, it also enables them to direct their fans to their official social media accounts.
 
 The colour scheme consistst of white text on black backgrounds to match the aesthetic of of the band and to make sure the text remains readable, the links on the contact page are set to change to gold when hovered over to make clear which link is being selected and to maintain optimal contrast and readability.
+
+General use cases for the website
+1. A fan looking for the official accounts for the band
+2. A fan looking up the dates for the bands next puublic performances
+3. A fan trying to find out a litle bit more about the band
+4. A fan curious about currently available albums
 ---
 
 ## Tech Stack
@@ -54,3 +60,5 @@ TEST.md              # Site  testing
 ![Wireframe for the about page](<assets/images/readme_images/wireframe2.png>)
 ![Wireframe for the contact page](<assets/images/readme_images/wireframe3.png>)
 ![Wireframe for the gig page](<assets/images/readme_images/wireframe4.png>)
+
+Lugrasimo and New Rocker fonts were chosen since they match the general vibe of the band.
