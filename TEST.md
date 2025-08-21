@@ -10,7 +10,7 @@
 ![7](assets/images/test/screenshot7.png/)
 ![8](assets/images/test/screenshot8.png/)
 # PC Test Footage
-![Watch my video](https://youtu.be/EMm7bd_gyRY)
+[Video](https://youtu.be/EMm7bd_gyRY)
 
 # Mobile Screenshots
 ![a](assets/images/test/IMG_8705.PNG)
@@ -22,4 +22,4 @@
 ![g](assets/images/test/IMG_8712.PNG)
 ![h](assets/images/test/IMG_8713.PNG)
 # Mobile Test Footage
-![Watch my video](https://youtube.com/shorts/njIUUtA80Gw?feature=share)
+[Video](https://youtube.com/shorts/njIUUtA80Gw?feature=share)
